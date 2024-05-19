@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋, I'm JJSutton
 
-<!--
-**SuttonJJ/SuttonJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: C++ and Game Development
+- 👯 I’m looking to collaborate on: A Game Jam!
+- 💬 Ask me about: CS50, Java, C++, C# and MySQL
+- 📫 How to reach me: Johannes.sutton2003@gmail.com || Discord @jjsutton.
+- ⚡ Fun fact: I have been learning to program for 5 years!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- Java
+- C++
+- C#
+- Python
+- MySQL
+- SDL2
+- OpenGL
+
+Thanks for visiting! Have a great day! 😊
